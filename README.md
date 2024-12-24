@@ -6,7 +6,7 @@
 
 ## Environment
 
-```txt
+```
 Pytorch		2.5.1
 Python		3.12(ubuntu22.04)
 Cuda		12.4
