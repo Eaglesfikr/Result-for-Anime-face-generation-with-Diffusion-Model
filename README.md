@@ -7,13 +7,13 @@
 ## Environment
 
 ```
-Pytorch		  2.5.1
-Python		  3.12(ubuntu22.04)
-Cuda		  12.4
-GPU			RTX 4090D(24GB) * 1
-CPU			16 vCPU Intel(R) Xeon(R) Platinum 8481C
-内存			80GB
-硬盘			系统盘:30 GB
+Pytorch	== 2.5.1
+Python == 3.12(ubuntu22.04)
+Cuda == 12.4
+GPU	 == RTX 4090D(24GB) * 1
+CPU	== 16 vCPU Intel(R) Xeon(R) Platinum 8481C
+内存 == 80GB
+硬盘 ==	系统盘:30 GB
 ```
 
 
